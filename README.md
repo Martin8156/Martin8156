@@ -16,6 +16,3 @@ Some highlights from my project work:
 | Frameworks & Libraries | React, Flask, JavaFX, PyTorch, Hugging Face Transformers, scikit-learn, Keras, NumPy, Pandas, Matplotlib, MongoEngine, Gson, Google OR-Tools |
 | Databases | MongoDB (Atlas) |
 | Tools | Git, Docker, Jira, Postman, Heroku, Maven, Jupyter Notebook |
-
-
-I appreciate you viewing my profile! Feel free to follow me if my work interests you, and don't hesitate to reach out to mbinfante8156@gmail.com for any inquiries. 
