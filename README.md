@@ -1,4 +1,4 @@
-Hi, I'm Martin! I recently graduated from UT Austin with a degree in Electrical and Computer Engineering, and I'm actively seeking full-time opportunities in software engineering and adjacent fields. My work spans full-stack development with some machine learning applications. In the meantime, I'm working as a solo Roblox developer (scripting/UI/3D Modeling), and planning to release a game Q4 2026 with an initial goal of hitting 500 CCU!
+Hi, I'm Martin! I recently graduated from UT Austin with a degree in Electrical and Computer Engineering, and I'm actively seeking full-time opportunities in software engineering and adjacent fields. My work spans full-stack development with some machine learning applications.
 
 Some highlights from my project work:
 
